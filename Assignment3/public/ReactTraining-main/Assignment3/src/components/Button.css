@@ -1,0 +1,23 @@
+.button{
+    text-align: center;
+}
+.button>p{
+    background-color: white;
+    color: darkblue;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 1px solid lightgray;
+    
+}
+.button>p:hover{
+    cursor: pointer;
+    opacity: 0.4;
+}
+.func{
+    background-color: orange;
+    color: wheat;
+}
