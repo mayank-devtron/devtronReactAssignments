@@ -35,5 +35,5 @@ var Employee = /** @class */ (function (_super) {
     };
     return Employee;
 }(User));
-var emp = new Employee("Ashish", 20, "9308797663", "SDE - 1", 10000, "10:00 - 6:00");
+var emp = new Employee("Mayank-Raj", 21, "9784399760", "sde-intern", 20000, "10:00 - 7:00");
 emp.printEmployee();
